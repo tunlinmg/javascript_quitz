@@ -2,7 +2,8 @@
 
 const quizData = [
   {
-    question: document.getElementById("media").innerHTML='<img src="media/pic.jpg">' ,
+    question: "sdfsdf",
+    //document.getElementById("media").innerHTML='<img src="media/pic.jpg">' ,
     a: "Java",
     b: "C",
     c: "Python",
