@@ -2,7 +2,7 @@
 
 const quizData = [
   {
-    question: "Which language runs in a web browser?",
+    question: document.getElementById("media").innerHTML='<img src="media/pic.jpg">' ,
     a: "Java",
     b: "C",
     c: "Python",
